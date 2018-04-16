@@ -1,7 +1,7 @@
 # ingenio
 code problem
 
-Amrit Kohli
+Author: Amrit Kohli
 
 Ingenio Code problem
 
