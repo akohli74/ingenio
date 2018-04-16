@@ -6,18 +6,18 @@ Ingenio Code problem
 
 To invoke:
 
-git clone https://github.com/akohli74/ingenio.git
+`git clone https://github.com/akohli74/ingenio.git`
 
-cd ingenio
+`cd ingenio`
 
-node . 201
+`node . 201`
 
-node . 202
+`node . 202`
 
 
-node . 2
+`node . 2`
 
-node . 3
+`node . 3`
 
 
 please be sure you have node installed.  there are no other external dependencies.
