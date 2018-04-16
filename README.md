@@ -3,6 +3,8 @@ code problem
 
 Author: Amrit Kohli
 
+Time to finish: 120 - 150 minutes.
+
 Ingenio Code problem
 
 To invoke:
