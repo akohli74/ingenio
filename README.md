@@ -1,17 +1,17 @@
-# ingenio
+# trees
 code problem
 
 Author: Amrit Kohli
 
 Time to finish: 120 - 150 minutes.
 
-Ingenio Code problem
+Trees Code problem
 
 To invoke:
 
-`git clone https://github.com/akohli74/ingenio.git`
+`git clone https://github.com/akohli74/trees.git`
 
-`cd ingenio`
+`cd trees`
 
 `node . 201`
 
